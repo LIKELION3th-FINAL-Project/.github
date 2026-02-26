@@ -4,6 +4,7 @@ CloZ(옷장을 부탁해)는 사용자의 입력 프롬프트를 기반으로 �
 <br>
 
 ### 서비스 플로우
+<img width="1108" height="458" alt="Image" src="https://github.com/user-attachments/assets/362a9a86-0936-4dc6-bfe7-4e05fc91ca6c" />
 
 <br>
 <br>
