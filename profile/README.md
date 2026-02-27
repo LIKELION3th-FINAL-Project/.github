@@ -6,6 +6,13 @@ CloZ(옷장을 부탁해)는 사용자의 입력 프롬프트를 기반으로 �
 ### 서비스 플로우
 <img width="1108" height="458" alt="Image" src="https://github.com/user-attachments/assets/362a9a86-0936-4dc6-bfe7-4e05fc91ca6c" />
 
+1. User Input
+비정형의 사용자 발화(e.g. "내일 홍대 갈건데 코디 추천해줘")에 대해 미리 선정해둔 정형화된 JSON 템플릿에 맞추어 모호한 발화를 더 명확하게 이해합니다.
+
+2. 
+
+   
+
 <br>
 <br>
 
@@ -14,9 +21,15 @@ CloZ(옷장을 부탁해)는 사용자의 입력 프롬프트를 기반으로 �
 
 # 개발 내용
 
+### 문제 해결
+
+
 <br>
 
 ### 프로젝트 아키텍쳐
+
+
+### 기술 스택
 
 
 <br>
@@ -37,12 +50,15 @@ git clone <url>
 git submodule update --remote --recursive
 ```
 
+<br>
 
 2. `.env`작성
-`drf/.env` 작성
-`fastapi/.env` 작성
-`models/.env` 작성
 
+`drf/.env` 작성        
+`fastapi/.env` 작성      
+`models/.env` 작성      
+
+<br>
 
 3. 도커 컨테이너 실행
 ```bash
